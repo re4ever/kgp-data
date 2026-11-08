@@ -6,9 +6,11 @@
 |---|---|
 | `kgp_data.txt` | 판 정보 — `data=YYMMDD.HHMM`(한국 시각 데이터 판), `app=0.02.NN`(필요한 앱 판) |
 | `kgp_data.zip` | 표 꾸러미 — `csv/*.csv` + `csv/_data_version.txt`, **무압축**(게임이 압축을 풀지 않는다) |
+| `kgp_res.txt` | 게임 리소스 목록 — 한 줄에 `경로<탭>크기<탭>crc32` |
+| `res/` | 게임 리소스(그림·소리·애니메이션) — 게임은 목록과 비교해 **바뀐 파일만** 받는다 |
 
 게임은 `https://raw.githubusercontent.com/re4ever/kgp-data/main/kgp_data.txt` 를 먼저 받아 판을 견주고,
-새 판이면 `…/kgp_data.zip` 을 받는다. 두 파일은 본 저장소의 에디터 「온라인 데이터」 가 함께 만든다 —
+새 판이면 `…/kgp_data.zip` 을 받는다. 모두 본 저장소 에디터의 **「kgp-data 올리기」** 가 만들어 commit·push 한다 —
 **둘을 같이 바꿔 올릴 것**, zip 을 손으로 다시 압축하지 말 것.
 
 이 저장소는 공개다. 게임 표 말고는 아무것도 넣지 않는다.
