@@ -1,10 +1,10 @@
-data=261109.2106
-app=0.02.120
+data=261109.2110
+app=0.02.121
 xor=1
 apk=kgp_app.bin
 apk_ver=0.02.120
-apk_size=70006847
-apk_crc=6757ab31
+apk_size=70006846
+apk_crc=6270bc57
 code=kgp_code.bin
 code_ver=0.02.120
 code_hook=1884dee773e92e16
