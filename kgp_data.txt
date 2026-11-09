@@ -1,7 +1,7 @@
-data=261109.1833
-app=0.02.105
+data=261109.1839
+app=0.02.106
 xor=1
 apk=kgp_app.bin
-apk_ver=0.02.105
-apk_size=69995707
-apk_crc=6490182a
+apk_ver=0.02.106
+apk_size=69995847
+apk_crc=787e253a
