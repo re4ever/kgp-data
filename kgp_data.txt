@@ -1,11 +1,11 @@
-data=261113.0028
-app=0.03.31
+data=261113.0033
+app=0.03.32
 xor=1
 code=kgp_code.bin
-code_ver=0.03.31
-code_hook=84b9a3efdd5cb9b1
-code_size=845312
-code_crc=c0b1d520
+code_ver=0.03.32
+code_hook=91b83aa6787616fd
+code_size=846336
+code_crc=ea22754c
 apk=kgp_app.bin
 apk_ver=0.03.31
 apk_size=70041676
