@@ -1,6 +1,6 @@
-ver=2026-11-15 19:57
+ver=2026-11-15 19:59
 files=5279
-bytes=84212769
+bytes=84212361
 c=e4c8a78a3.bin 690983 4c8a78a3 art-00
 c=e6afc7e6d.bin 703670 6afc7e6d art-01
 c=e2891d5aa.bin 687944 2891d5aa art-02
@@ -106,7 +106,7 @@ c=ee05d1873.bin 104516 e05d1873 sound-29
 c=e0da0d44e.bin 231558 0da0d44e sound-30
 c=ebedcada2.bin 522704 bedcada2 sound-31
 c=ed3ce51ca.bin 200487 d3ce51ca wt-00
-c=ed1a11ffd.bin 451293 d1a11ffd wt-01
+c=e003a1ccf.bin 450885 003a1ccf wt-01
 c=e7e76d921.bin 141242 7e76d921 wt-02
 c=e41c51e97.bin 26655 41c51e97 wt-03
 c=e6b552d47.bin 164722 6b552d47 wt-04
