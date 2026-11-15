@@ -1,4 +1,4 @@
-data=261115.1417
+data=261115.1645
 app=0.03.202
 xor=1
 apk=kgp_app.bin
@@ -10,3 +10,7 @@ code_ver=0.03.202
 code_hook=85b01d3d750ce2f1
 code_size=988672
 code_crc=b43f68ac
+editor=kgp_editor.bin
+editor_ver=2026-11-15 16:44
+editor_size=85531378
+editor_crc=01d41a54
