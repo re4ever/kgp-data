@@ -1,4 +1,4 @@
-ver=2026-11-16 17:36
+ver=2026-11-16 17:40
 files=5287
 bytes=94615271
 c=e4c8a78a3.bin 690983 4c8a78a3 art-00
@@ -49,7 +49,7 @@ c=ee516dcb9.bin 590650 e516dcb9 art-44
 c=e62ddfa54.bin 614045 62ddfa54 art-45
 c=e2c01cf99.bin 615951 2c01cf99 art-46
 c=e7f98e0b5.bin 601894 7f98e0b5 art-47
-c=e3acb9fd7.bin 517499 3acb9fd7 core
+c=e29255560.bin 517499 29255560 core
 c=e89220740.bin 53502 89220740 seed-art_alias.json
 c=e5a740814.bin 472 5a740814 seed-art_foot.json
 c=e76acc341.bin 24937 76acc341 seed-art_story.json
