@@ -1,10 +1,10 @@
-data=261117.0013
+data=261117.0020
 app=0.03.240
 xor=1
 editor=editor/kgp_editor.bin
-editor_ver=2026-11-17 00:10
+editor_ver=2026-11-17 00:20
 editor_size=45906
-editor_crc=8f7f521f
+editor_crc=c40c1b35
 apk=kgp_app.bin
 apk_ver=0.03.240
 apk_size=70086405
